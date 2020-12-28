@@ -76,7 +76,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurigre&show_icons=true&theme=gruvbox" alt="Maurigre's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurigre&show_icons=true&theme=radical" alt="Maurigre's github stats" />
 </p>
 
 <br/>
