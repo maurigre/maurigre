@@ -7,11 +7,10 @@
 </p>
 
 ### Welcome to my page!
+
 <p>
   I'm mauri, Fullstack PHP developer since 2004-2019, but currently working as Fullstack Java / Android developer.
 </p>
-
-<br/>
 
 ### Talking about Personal Stuffs
 
@@ -52,6 +51,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 **Utilities**
+
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
 **DevOps**
