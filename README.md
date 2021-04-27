@@ -18,7 +18,7 @@
 - What motivates me to solve problems
 - I love studying new things
 - Ask me about anything, I am happy to help;
-- Currently doing postgraduate studies in Java
+<!-- - Currently doing postgraduate studies in Java -->
 
 ### Where to find me:
 <a href="https://www.linkedin.com/in/mauri-reis">
