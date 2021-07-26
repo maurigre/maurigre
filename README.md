@@ -9,7 +9,7 @@
 ### Welcome to my page!
 
 <p>
-  I'm mauri, <!--Fullstack--> PHP developer since 2004-2019, but currently working as Java / Android developer.
+I'm Mauri, passionate about IT, I've been working as a developer since 2004, I've studied several programming languages over time and I'm still studying. I love studying and learning. Currently focused on back-end Java development. 
 </p>
 
 ### Talking about Personal Stuffs
