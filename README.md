@@ -76,7 +76,8 @@ I'm Mauri, passionate about IT, I've been working as a developer since 2004, I'v
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurigre&show_icons=true&theme=algolia" alt="Maurigre's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurigre&show_icons=true&theme=algolia" alt="Maurigre's github stats" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maurigre&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 <br/>
