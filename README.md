@@ -87,12 +87,10 @@ Hi there! I'm **Mauri Reis**, a tech enthusiast and developer since 2004. Over t
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurigre&show_icons=true&theme=algolia" alt="Maurigre's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurigre&layout=compact&theme=algolia" />
-</p>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maurigre&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maurigre&layout=compact&theme=algolia" />
+</div>
 ---
 
 ## ⚡ Fun Fact
